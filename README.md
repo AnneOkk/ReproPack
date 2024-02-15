@@ -7,6 +7,16 @@ This work was originally created by [Mike Croucher](https://github.com/mikecrouc
 ## Prerequisites
 * You should have an understanding of how to use R, Git, and GitHub
 
+## Helpful resources
+
+* [Introduction to computational reproducibility](https://bitss.github.io/ACRE/intro.html)
+* [Introduction to the Social Sciences Reproduction Platform](https://medium.com/center-for-effective-global-action/introducing-the-social-science-reproduction-platform-5d76f09d9930)
+* [The BITSS Resource Library](https://www.bitss.org/resource-library/) contains resources for learning, teaching, and practicing research transparency and reproducibility, including curricula, slide decks, books, guidelines, templates, software, and other tools
+* The GitHub repository [Awesome Reproducible Research](https://github.com/leipzig/awesome-reproducible-research) provides a curated list of reproducible research case studies, projects, tutorials, and media
+* [Template README](https://social-science-data-editors.github.io/template_README/templates/README.pdf)
+* [FAIR software](https://odissei-data.nl/en/2023/06/fair-software-for-the-social-sciences/)
+
+
 ## Tutorial Overview 
 In this self-paced tutorial, you will learn how to create Reproduction Packages. We will cover the following topics:
 
@@ -30,11 +40,13 @@ In this self-paced tutorial, you will learn how to create Reproduction Packages.
 
 #### 5. Data and code publication
 
-#### 6. Time and resource planning
+#### 6. Data and code licensing
+
+#### 7. Time and resource planning
 * How much time and funding should I allocate to creating Reproduction Packages?
 * Example time plan 
 
-#### 7. A Reproduction Package - step by step 
+#### 8. A Reproduction Package - step by step 
 * Step-by-step creating a Reproduction Package 
 
 
